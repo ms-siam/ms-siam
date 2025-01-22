@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm **Mobarok Sarker**, a passionate learner and a
 
 ## 📫 Connect with Me
 
-- GitHub: [MobarokSarker](https://github.com/ms-siam)
-- Instagram: [@your_instagram_handle](https://instagram.com/buggymobar_k)
-- Pinterest: [@your_pinterest_handle](https://pinterest.com/mobar_ksarker)
+- GitHub: [Mobar'k Sarker](https://github.com/ms-siam)
+- Instagram: [Mobar'k Sarker](https://instagram.com/buggymobar_k)
+- Pinterest: [Mobar'k Sarker](https://pinterest.com/mobar_ksarker)
 
 ---
 
