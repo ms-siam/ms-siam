@@ -3,7 +3,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ms-siam)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com/?user=ms-siam)](https://git.io/streak-stats)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ms-siam&theme=dark&hide_border=false)<br/>
 
