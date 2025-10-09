@@ -4,7 +4,7 @@
 
 
 
-# 📊 GitHub Stats:
+
 ![](https://nirzak-streak-stats.vercel.app/?user=ms-siam&theme=dark&hide_border=false)<br/>
 
 ---
